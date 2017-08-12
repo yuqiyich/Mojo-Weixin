@@ -255,6 +255,13 @@ Mojo-Weixin v1.3.5 [![Build Status](https://travis-ci.org/sjdy521/Mojo-Weixin.sv
 
 可以通过扫描支付宝付款二维码进行赞助，感谢您的支持和鼓励
 
+
+
+
+
+
+
+
 ![donate](screenshot/donate.jpg)
 
 特别致谢 [那些曾经赞助的小伙伴们](https://github.com/sjdy521/Mojo-Thanks)
